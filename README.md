@@ -1,7 +1,7 @@
 - 👋 Hola, soy @TheCoders24
 - 👀 Estoy interesado en aprender desarrollo web
-- 🌱 Actualmente estoy aprendiendo  inteligencia artificial
-- 💞️ Estoy buscando colaborar en ...
+- 🌱 Actualmente estoy aprendiendo  ciberseguridad
+- 💞️ Estoy buscando colaborar en proyectos
 - 📫 Cómo contactar conmigo - alexis3124osuna@hotmail.com
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ...
