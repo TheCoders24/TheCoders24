@@ -3,5 +3,4 @@
 - 🌱 Actualmente estoy aprendiendo  ciberseguridad
 - 💞️ Estoy buscando colaborar en proyectos
 - 📫 Cómo contactar conmigo - alexis3124osuna@hotmail.com
-- 😄 Pronombres: ...
-- ⚡ Dato curioso: ...
+- 😄 Pronombres: TheCoders24
