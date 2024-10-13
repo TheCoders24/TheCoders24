@@ -1,6 +1,5 @@
-- 👋 Hola, soy @TheCoders24
+- 👋 Hola, soy @Alexis
 - 👀 Estoy interesado en aprender desarrollo web
 - 🌱 Actualmente estoy aprendiendo  ciberseguridad
-- 💞️ Estoy buscando colaborar en proyectos
 - 📫 Cómo contactar conmigo - alexis3124osuna@hotmail.com
 - 😄 Pronombres: TheCoders24
